@@ -1,0 +1,6 @@
+Small Bash script to convert tabs to spaces for all files in a directory tree.
+
+Usage: s2t.sh pattern spaces
+e.g.   s2t.sh *.php 4
+
+MIT licensed.
